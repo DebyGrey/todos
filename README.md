@@ -91,7 +91,7 @@ To install this project run this into your terminal:
 ### Usage
 
 To run this project: 
-+ npm run dev
++ npm run start
 
 
 ### Run tests
